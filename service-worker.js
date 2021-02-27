@@ -3,7 +3,7 @@ var cacheFiles = [
     'index.html',
     'group.webmanifest',
     'images/icon.png',
-    'images/product-math.jpg'
+    'images/product-maths.jpg'
 ]
 
 self.addEventListener('install', (e) => {
